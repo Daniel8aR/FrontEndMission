@@ -1,0 +1,375 @@
+h2{
+    font-size: 50px;
+}
+.h3{
+    font-size: 38px;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+    right: 50px;
+    
+    position: absolute;
+    top: 20px;
+    left: 150px
+}
+.href{
+    text-decoration: none;
+    color: grey;
+}
+.button{
+    color: grey;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    Padding: 10px;
+}
+.b1{   
+    position: absolute;
+    left: 600px;
+    top: 60px;
+}
+.b2{   
+    position: absolute;
+    left: 850px;
+    top: 60px;
+}
+.b3{   
+    position: absolute;
+    left: 1100px;
+    top: 60px;
+}
+.b4{   
+    position: absolute;
+    left: 1350px;
+    top: 40px;
+}
+.separation1{
+    width: 750px;
+    height: 150px;
+    background: #e9f1fc;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.message1{
+    width: 775px;
+    height: 900px;
+    background: whitesmoke;
+    position: absolute;
+    left: 0px;
+    top: 120px;
+}
+.fight{    
+    width: 525px;
+    height: 200px;
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.stopPandemic{
+    width: 465px;
+    height: 200px;
+    position: absolute;
+    left: 100px;
+    top: 250px;
+}
+.bProtecion{
+    position: absolute;
+    left: 125px;
+    top: 400px;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+.sVaccines{
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+.Schedule{
+    position: absolute;
+    left: 125px;
+    bottom: 300px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.image1{    
+    width: 750px;
+    height: 900px;
+    background: #2871dd;
+    position: absolute;
+    right: 0px;
+    top: 120px;
+    background-image: url("./assets/images/Doctor.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.submitVaccines{
+    width: 900px;
+    height: 150px;
+    background: white;
+    opacity: 0.7;
+    position: absolute;
+    left: 125px;
+    top: 720px;
+}
+.location{
+    position: absolute;
+    left: 50px;
+    top: 30px;
+}
+.date{    
+    position: absolute;
+    left: 270px;
+    top: 30px;
+}
+.vaccineType{
+    position: absolute;
+    left: 475px;
+    top: 30px;
+}
+.submit{
+    position: absolute;
+    right: 100px;
+    top: 40px;
+    color: white;
+    background-color: blue;
+    Padding: 10px;
+}
+.organizations{    
+    width: 1519px;
+    height: 250px;
+    background: white;
+    position: absolute;
+    left: 0px;
+    top: 1000px;
+    background-image: url("./assets/images/Orgs.JPG");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.reasons{    
+    width: 1519px;
+    height: 900px;
+    background: white;
+    position: absolute;
+    left: 0px;
+    top: 1250px;
+}
+.intro{
+    width: 600px;
+    height: 250px;
+    background: white;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.window{    
+    width: 300px;
+    height: 300px;
+    background: white;
+    position: absolute;
+    top: 450px;
+}
+.textH3{
+    font-size: 25px;
+}
+.minimize{
+    left: 100px;
+}
+.forming{
+    left: 470px;
+}
+.protecting{
+    left: 840px;
+}
+.group{
+    left: 1210px;
+}
+.contorno1{
+    width: 750px;
+    height: 450px;
+    background-color: #5085ad;
+    position: absolute;
+    left: 0px;
+    top: 2600px;
+}
+.image2{    
+    width: 750px;
+    height: 900px;
+    position: absolute;
+    left: 0px;
+    top: 2150px;
+    background-image: url("./assets/images/GirlFaceMask.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.message2{
+    width: 775px;
+    height: 900px;
+    background: white;
+    position: absolute;
+    right: 0px;
+    top: 2150px;
+}
+.preparation{
+    width: 650px;
+    height: 300px;
+    position: absolute;
+    left: 50px;
+    top: 40px;
+}
+.info{
+    width: 550px;
+    height: 30px;
+    font-size: 30px;
+    border: 0;
+    font-weight: bold;
+    left: 120px;
+}
+.alcoholic{    
+    position: absolute;
+    top: 350px;
+}
+.stress{
+    position: absolute;
+    top: 450px;
+}
+.eat{
+    position: absolute;
+    top: 550px;    
+}
+.sleep{
+    position: absolute;
+    top: 650px; 
+}
+.excersice{
+    position: absolute;
+    top: 750px; 
+}
+.message3{
+    width: 1038px;
+    height: 800px;
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    top: 3250px;    
+}
+.contact{
+    width: 650px;
+    height: 450px;   
+    position: absolute;
+    left: 100px;
+    top: 30px;     
+}
+.contactLink{
+    width: 300px;
+    height: 200px;   
+    position: absolute;
+    background-color: white;
+}
+.call{
+    left: 100px;
+    top: 300px;
+}
+.chat{
+    left: 500px;
+    top: 300px;
+}
+.videoCall{
+    left: 100px;
+    top: 550px;
+}
+.msg{
+    left: 500px;
+    top: 550px;
+}
+.msgInt{
+    position: absolute;
+    left: 125px;
+    top: 15px;
+}
+.button1{
+    text-decoration: none;
+    color: blue;
+    background-color: whitesmoke;
+    Padding: 20px;
+    position: absolute;
+    left: 125px;
+    top: 120px;
+    border-radius:0px;
+    outline:none;
+}
+.contorno2{
+    width: 650px;
+    height: 450px;
+    background-color: #2871dd;
+    position: absolute;
+    right: 0px;
+    top: 3600px;
+}
+.image3{    
+    width: 650px;
+    height: 800px;
+    position: absolute;
+    right: 0px;
+    top: 3250px;
+    background-image: url("./assets/images/MaleNurse.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.last{ 
+    width: 1519px;
+    height: 300px;
+    background: #eef3ff;
+    position: absolute;
+    left: 0px;
+    top: 4200px;
+}
+.vaccination{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+.about{
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    right: 500px;
+    top: 30px;    
+}
+.company{
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    right: 300px;
+    top: 30px;      
+}
+.support{
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    right: 100px;
+    top: 30px; 
+}
+.rights{
+    position: absolute;
+    left: 100px;
+    bottom: 30px; 
+}
+.terms{
+    position: absolute;
+    right: 350px;
+    bottom: 20px; 
+}
+.privacy{
+    position: absolute;
+    right: 170px;
+    bottom: 20px;     
+}
